@@ -1,16 +1,21 @@
-### Hi there 👋
+# Sobre Mim
 
-<!--
-**AlexandreAlencar1/AlexandreAlencar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Desenvolvedor de Software
 
-Here are some ideas to get you started:
+👨‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFMS - TL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Interesses: Java, Spring Boot, API, Micro-serviços, React e Docker.
+
+📌 Experiência Profissional com: Java 11, 17 | JPA, Maven, JDBC, H2, MySQL, PostgreSQL e Git.
+
+🚀 Futuro: Spring Security, Angular, Vue.js, entre outros...
+
+## Painel de Visitas
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=AlexandreAlencar1)
+
+## Redes Sociais
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/alexandre-s-alencar/)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-green)](https://github.com/AlexandreAlencar1)
+[![Email](https://img.shields.io/badge/Email-Contato-red?style=flat-square&logo=gmail)](mailto:alexandre.s.alencar@hotmail.com)
+
+Sinta-se à vontade para se conectar comigo nas redes sociais ou explorar meus projetos no GitHub!
