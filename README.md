@@ -20,7 +20,7 @@
 <br/>
 
 ## Painel de Visitas
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=AlexandreAlencar1)
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=AlexandreAlencar1.AlexandreAlencar1)
 
 ## Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/alexandre-s-alencar/)
